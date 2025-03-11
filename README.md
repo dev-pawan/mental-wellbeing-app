@@ -1,5 +1,5 @@
 # Content Management System for Generating Behavioural Apps
-Amy Begbie, Mathew Galbraith, Colin MacFarlane, and Hares Mahmood - 
+Pawan Sonawane
 Department of Computer and Information Sciences, University Of Strathclyde, Glasgow, Scotland
 
 ## Overview
